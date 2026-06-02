@@ -1,4 +1,4 @@
-<div id='top' align="center">
+<!-- <div id='top' align="center">
 
 An Portfolio site template, implemented with [Next.js](https://nextjs.org/) and [Framer Motion](https://www.framer.com/motion/). Styled with [Tailwind CSS](https://tailwindcss.com/). This is one of my portfolios, but I would be pleased if these codes helped others, so I published it as an open-source project. feel free to explore it, and if you need help, ask me. I would respond as soon as possible.
 
@@ -106,4 +106,4 @@ Don't forget to give the project a star! Thanks again!
   </a>
 </p>
 
-<p align="right">(<a href="#top">BACK TO TOP🔝</a>)</p>
+<p align="right">(<a href="#top">BACK TO TOP🔝</a>)</p> -->
