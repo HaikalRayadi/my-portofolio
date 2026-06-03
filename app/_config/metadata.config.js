@@ -6,7 +6,7 @@ export const rootMetadata = {
     default: 'Kall • Freelance Designer & Developer',
   },
   description:
-    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
+    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch.',
   generator: 'Kall',
   applicationName: 'Kall',
   referrer: 'origin-when-cross-origin',
@@ -20,7 +20,7 @@ export const rootMetadata = {
     card: 'summary_large_image',
     title: 'Kall',
     description:
-      'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
+      'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch.',
     siteId: '1467726470533754880',
     creator: '@AliBagheri2079',
     creatorId: '1467726470533754880',
